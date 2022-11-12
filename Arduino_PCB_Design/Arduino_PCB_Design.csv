@@ -1,0 +1,21 @@
+Item,Qty,Reference(s),Value,LibPart,Footprint,Manufacturing Part Number(MPN),Vendor,Datasheet
+1,1,C1,10 uF,Device:C,Capacitor_SMD:C_0603_1608Metric,GRM188R6YA106MA73D,LCSC,https://datasheet.lcsc.com/lcsc/2101281737_Murata-Electronics-GRM188R6YA106MA73D_C194427.pdf
+2,1,C2,100 uF,Device:C,Capacitor_SMD:C_0603_1608Metric,CL32A107MPVNNNE,DIGIKEY,https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL32A107MPVNNNE_Spec.pdf
+3,7,"C3, C4, C8, C9, C11, C12",100 nF,Device:C,Capacitor_SMD:C_0603_1608Metric,0603B104K100CT,LCSC,https://datasheet.lcsc.com/lcsc/1912111437_Walsin-Tech-Corp-0603B104K100CT_C424828.pdf
+4,2,"C6, C7",20 pF,Device:C,Capacitor_SMD:C_0603_1608Metric,C0603C200G8HAC7867,DIGIKEY,https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/datasheet/C0603C200G8HAC7867
+5,1,C10,4.7 uF,Device:C,Capacitor_SMD:C_0603_1608Metric,CL10A475KP8NNNC,DIGIKEY,https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL10A475KP8NNNC_Spec.pdf
+6,2,"D1, D2",LED,Device:LED,LED_SMD:LED_0603_1608Metric,A-SP192YY3C-A01-4T,LCSC,https://datasheet.lcsc.com/lcsc/2209161630_Amicc-A-SP192YY3C-A01-4T_C5151485.pdf
+7,1,J1,Barrel_Jack,Connector:Barrel_Jack,Connector_BarrelJack:BarrelJack_CUI_PJ-063AH_Horizontal,PJ-614,LCSC,https://datasheet.lcsc.com/lcsc/2108131730_Korean-Hroparts-Elec-PJ-614_C145801.pdf
+8,1,J2,Conn_01x07_Female,Connector:Conn_01x07_Female,Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical_SMD_Pin1Left,X6511FRS-07-C85D30,LCSC,https://datasheet.lcsc.com/lcsc/2208221800_XKB-Connectivity-X6511FRS-07-C85D30_C5142240.pdf
+9,1,J3,Conn_01x06_Female,Connector:Conn_01x06_Female,Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical_SMD_Pin1Left,X6511FRS-06-C85D30,LCSC,https://datasheet.lcsc.com/lcsc/2208221800_XKB-Connectivity-X6511FRS-06-C85D30_C5142239.pdf
+10,1,J4,Conn_01x10_Female,Connector:Conn_01x10_Female,Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical_SMD_Pin1Right,X6511FRS-10-C85D30,LCSC,https://datasheet.lcsc.com/lcsc/2208221800_XKB-Connectivity-X6511FRS-10-C85D30_C5142243.pdf
+11,1,J5,Conn_01x08_Female,Connector:Conn_01x08_Female,Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical_SMD_Pin1Right,X6511FRS-08-C85D31,LCSC,https://datasheet.lcsc.com/lcsc/2208221800_XKB-Connectivity-X6511FRS-08-C85D30_C5142241.pdf
+12,1,J6,ICSP,Connector_Generic:Conn_02x03_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical_SMD,X6521WVS-2x03H-C60D74,LCSC,https://datasheet.lcsc.com/lcsc/2110111830_XKB-Connectivity-X6521WVS-2x03H-C60D74_C780054.pdf
+13,1,J7,USB_B,Connector:USB_B,Connector_USB:USB_Mini-B_Lumberg_2486_01_Horizontal, ,LCSC,https://www.usb.org/sites/default/files/documents/usb_type-c.zip
+14,2,"R1, R2",300,Device:R,Resistor_SMD:R_0603_1608Metric,0603WAF3000T5E,LCSC,https://datasheet.lcsc.com/lcsc/2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF3000T5E_C23025.pdf
+16,2,"R3, R4, R6",10K,Device:R,Resistor_SMD:R_0603_1608Metric,RC0603JR-0710KL,LCSC,https://datasheet.lcsc.com/lcsc/1811081617_YAGEO-RC0603JR-0710KL_C99198.pdf
+17,1,SW1,Reset_PB,Switch:SW_Push,Button_Switch_SMD:SW_SPST_B3U-1000P,PS-5850A-6PL,LCSC,https://datasheet.lcsc.com/lcsc/2012062037_G-Switch-PS-5850A-6PL_C963201.pdf
+18,1,U1,KIA1117-5.0,Regulator_Linear:HT75xx-1-SOT89,Package_TO_SOT_SMD:SOT-89-3,KIA1117-5.0,LCSC,https://datasheet.lcsc.com/lcsc/1810271708_KIA-Semicon-Tech-KIA1117-5-0_C116068.pdf
+19,1,U2,ATMEGA328P-AU,MCU_Microchip_ATmega:ATmega328P-A,Package_QFP:TQFP-32_7x7mm_P0.8mm,ATMEGA328P-AU,LCSC,https://datasheet.lcsc.com/lcsc/1809101618_Microchip-Tech-ATMEGA328P-AU_C14877.pdf
+20,1,U3,FT232RL,Interface_USB:FT232RL,Package_SO:SSOP-28_5.3x10.2mm_P0.65mm,FT232RL-REEL,LCSC,https://datasheet.lcsc.com/lcsc/1810311811_FTDI-FT232RL-REEL_C8690.pdf
+21,1,Y1,CSTCE16M0V53-R0,Device:Crystal,Crystal:Crystal_SMD_0603-2Pin_6.0x3.5mm,CSTCE16M0V53-R0,LCSC,https://datasheet.lcsc.com/lcsc/1810231814_Murata-Electronics-CSTCE16M0V53-R0_C32180.pdf
