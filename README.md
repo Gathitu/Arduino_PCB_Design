@@ -1,5 +1,5 @@
 A pdf containing the Printed Circuit Board's (PCB) Design Schematic:
-[Solar_Irrigation_PCB](/Arduino_PCB_Design/Schematic_PDF/Arduino_PCB_Design.pdf)
+[Schematic_PDF](/Arduino_PCB_Design/Schematic_PDF/Arduino_PCB_Design.pdf)
 
 **Snips of the PCB's views:**
 
